@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/shopmart/static/css/main.294bfd91.css",
-    "main.js": "/shopmart/static/js/main.0a746ebe.js",
-    "index.html": "/shopmart/index.html",
-    "main.294bfd91.css.map": "/shopmart/static/css/main.294bfd91.css.map",
-    "main.0a746ebe.js.map": "/shopmart/static/js/main.0a746ebe.js.map"
+    "main.css": "/shopcenter/static/css/main.294bfd91.css",
+    "main.js": "/shopcenter/static/js/main.0a746ebe.js",
+    "index.html": "/shopcenter/index.html",
+    "main.294bfd91.css.map": "/shopcenter/static/css/main.294bfd91.css.map",
+    "main.0a746ebe.js.map": "/shopcenter/static/js/main.0a746ebe.js.map"
   },
   "entrypoints": [
     "static/css/main.294bfd91.css",
