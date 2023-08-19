@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/vaibhavresto/static/css/main.294bfd91.css",
-    "main.js": "/vaibhavresto/static/js/main.0a746ebe.js",
-    "index.html": "/vaibhavresto/index.html",
-    "main.294bfd91.css.map": "/vaibhavresto/static/css/main.294bfd91.css.map",
-    "main.0a746ebe.js.map": "/vaibhavresto/static/js/main.0a746ebe.js.map"
+    "main.css": "/ecommerce/static/css/main.294bfd91.css",
+    "main.js": "/ecommerce/static/js/main.0a746ebe.js",
+    "index.html": "/ecommerce/index.html",
+    "main.294bfd91.css.map": "/ecommerce/static/css/main.294bfd91.css.map",
+    "main.0a746ebe.js.map": "/ecommerce/static/js/main.0a746ebe.js.map"
   },
   "entrypoints": [
     "static/css/main.294bfd91.css",
